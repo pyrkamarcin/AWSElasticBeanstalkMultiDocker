@@ -1,0 +1,11 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+!var/cache/.keep
+!var/log/.keep
